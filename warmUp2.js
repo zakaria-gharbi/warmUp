@@ -15,6 +15,7 @@ function sameLength(string1, string2) {
 function scoreToGrade(number) {
   // your code here
 }
+// USE RECURSION
 // Repeating a String n Times: Let's write a function called repeatString that takes two parameters: a string str, which is the string to be repeated, and count -- a number representing how many times the string str should be repeated
 // repeatString('dog', 0); // => ''
 // repeatString('dog', 1); // => 'dog'
