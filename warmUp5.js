@@ -9,16 +9,7 @@
 //  ex:  isEven(1,10) => [2,4,6,8,10]
 
 // function isEven(x, y) {
-//     var arr = [];
-//     for (var i = 0; i < arr.length; i++) {
-//         while (x <= y) {
-//             if (x % 2 === 0) {
-//                 arr[i] = arr.push(x)
-//             }
-//             x++
-//         }
-//     }
-//     return arr;
+
 // }
 //3) write a function named sum that
 // - Use a while loop to add up the numbers from x to y.
