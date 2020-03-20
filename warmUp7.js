@@ -10,3 +10,49 @@
 
 //3- write a function to Reverse an array without use array.reverse() method:
 // ex: reverseArray([1,2,3]) ==> [3,2,1]
+    
+
+function display() {
+   var x=7;	
+	if(5!==x){
+   return 'true';
+	}
+	
+}
+
+function helloworld(language){
+
+    if(language===fr){
+    	return 'Bonjour tout le monde';
+
+    }
+
+      else if (language===es){  
+      	return 'Hola,Mundo';
+      }
+
+         else{
+
+         	return'Hello,World';
+         }
+
+}
+
+
+
+function reserveArray(arr){
+    var newArry= [];
+    for(var i = arr.length-1; i >= 0; i--){
+
+    	newArry.push(arr[i]);
+    }
+   
+        
+          return newArry;
+} 
+
+
+
+
+
+
