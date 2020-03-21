@@ -6,3 +6,10 @@
 
 // 3 - Write a function named objSort to sort an array of JavaScript objects based on the id
 // objSort([{id:2,value:50},{id:0,value:70},{id:1,value:40}]) ==> [{id:0,value:70},{id:1,value:40},{id:2,value:50}]
+function objKey(object){
+	return objKey["name","age"];
+}
+
+function objLength(object){
+	return objLength.length([]);
+}
