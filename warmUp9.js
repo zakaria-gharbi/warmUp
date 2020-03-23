@@ -5,6 +5,7 @@
 // ex isArray([1,2])=>true
 //    isArray(5)=>false
 
+var isArray = array => (Array.isArray(array) ? true : false);
 // **************** git status ****************
 // **************** git add fileName.js ****************
 // **************** git status ****************
@@ -15,6 +16,7 @@
 //2-Write a JavaScript function to get the first n element of an array.
 //ex  first([1,2,3],1)=>[1]
 //    first([1,2,3,4]2)=>[1,2]
+var first = (arr, n) => arr.splice(0, n);
 
 // **************** git status ****************
 // **************** git add fileName.js ****************
