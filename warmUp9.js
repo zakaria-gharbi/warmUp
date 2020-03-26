@@ -21,6 +21,7 @@ function check(n){
 //2-Write a JavaScript function to get the first n element of an array.
 //ex  first([1,2,3],1)=>[1]
 <<<<<<< HEAD
+<<<<<<< HEAD
 //    first([1,2,3,4]2)=>[1,2]
 function theFirst([]){
   var first =(array,n);
@@ -38,6 +39,10 @@ function theFirst([]){
 =======
 //    first([1,2,3,4],2)=>[1,2]
 >>>>>>> 0e47aea7be29872390744ebf393e4da84d716048
+=======
+//    first([1,2,3,4]2)=>[1,2]
+
+>>>>>>> eedf4d1da29beb7f6472f832fb846002ed7197b5
 
 // **************** git status ****************
 // **************** git add fileName.js ****************
