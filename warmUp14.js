@@ -7,3 +7,10 @@
 // array: [ 1, 2, 3, 4 ], sub:[ 2, 3, 4 ] => true
 // array: [ 2, 2, 2, 3, 4 ], sub:[ 2, 4, 3 ] => true
 // array: [ 2, 3, 3, "a" ],  sub:[ 3, 3, 3, "a" ] => false
+function susbste(arr1[],arr2[]){
+     if (arr2[]===arr1[]){
+     	return 'true';
+     } 
+
+    return'false';
+}
